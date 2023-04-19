@@ -1,0 +1,3 @@
+
+git repo link where all the common microservices are configured in on file
+git@github.com:rijalsujan09/microservice-impl.git
